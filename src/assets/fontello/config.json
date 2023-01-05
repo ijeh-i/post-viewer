@@ -1,0 +1,40 @@
+{
+  "name": "",
+  "css_prefix_text": "icon-",
+  "css_use_suffix": false,
+  "hinting": true,
+  "units_per_em": 1000,
+  "ascent": 850,
+  "glyphs": [
+    {
+      "uid": "b714be5a812a474811604f700dfc87ce",
+      "css": "left-open",
+      "code": 61447,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "06a2fbb04dffecdb444936073cae9123",
+      "css": "thumbs-up",
+      "code": 59392,
+      "src": "linecons"
+    },
+    {
+      "uid": "5d2d07f112b8de19f2c0dbfec3e42c05",
+      "css": "spin5",
+      "code": 59448,
+      "src": "fontelico"
+    },
+    {
+      "uid": "348b04ea17f646fbc6a46e20ebe4fe12",
+      "css": "download",
+      "code": 61486,
+      "src": "mfglabs"
+    },
+    {
+      "uid": "a58c05a8a3ba59ababd4860a30892560",
+      "css": "eye",
+      "code": 59393,
+      "src": "linecons"
+    }
+  ]
+}
